@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/justisGipson/outside.git"
   },
+  "engines": {
+    "node": ">=8"
+  },
   "bugs": {
     "url": "https://github.com/justisGipson/outside/issues"
   },
@@ -27,6 +30,7 @@
   ],
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.0",
     "minimist": "^1.2.0",
     "ora": "^4.0.2"
   }
