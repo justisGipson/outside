@@ -15,7 +15,7 @@
     "url": "https://github.com/justisGipson/outside/issues"
   },
   "bin": {
-    "outside": "./index.js"
+    "outside": "bin/outside"
   },
   "author": "justisGipson",
   "keywords": [
@@ -23,10 +23,11 @@
     "cli weather",
     "weather tool",
     "tools",
-    "terminal weather"
+    "terminal weather app"
   ],
   "license": "ISC",
   "dependencies": {
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.0",
+    "ora": "^4.0.2"
   }
 }
