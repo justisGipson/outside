@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/justisGipson/outside.git"
   },
+  "bugs": {
+    "url": "https://github.com/justisGipson/outside/issues"
+  },
   "bin": {
     "outside": "./index.js"
   },
