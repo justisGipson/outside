@@ -20,6 +20,7 @@
   "bin": {
     "outside": "bin/outside"
   },
+  "preferGlobal": true,
   "author": "justisGipson",
   "keywords": [
     "weather",
